@@ -1,6 +1,6 @@
 {
   "name": "training-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "scaffolding to run training on node app",
   "main": "src/app.js",
   "scripts": {
